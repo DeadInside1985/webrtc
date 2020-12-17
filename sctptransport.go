@@ -10,7 +10,7 @@ import (
 
 	"github.com/pion/datachannel"
 	"github.com/pion/logging"
-	"github.com/pion/sctp"
+	"github.com/DeadInside1985/sctp"
 	"github.com/pion/webrtc/v3/pkg/rtcerr"
 )
 
